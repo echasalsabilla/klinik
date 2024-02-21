@@ -10,7 +10,8 @@
 
 <body>
     <h2>Profile Halaman</h2>
-    <h2>Contoh Branch</h2>
+    <a href="#">Contoh Branch</a>
+
 </body>
 
 </html>
